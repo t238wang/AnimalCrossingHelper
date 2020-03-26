@@ -5,3 +5,5 @@ todo
 3. add proper navigation
 4. about page
 5. UI improvments including app icon, landing page
+
+helper.apk is a working version of the app, feel free to download and try it.
