@@ -1,5 +1,4 @@
 # AnimalCrossingHelper
-
 ## Feature(s) available now:
 My initial goal is to make this app a "swiss army knife" app
 ### Fishing Index
