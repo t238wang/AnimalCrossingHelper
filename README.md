@@ -3,6 +3,7 @@
 My initial goal is to make this app a "swiss army knife" app
 ### Fishing Index
 Having the exact ordering of the fishing index in app so it's super easy to cross-reference with your own record. The checkmark will show what fish are available for you. Good luck fishers.
+![fishing index screenshot](41585453246_.pic.jpg)
 
 ## Features I will be working on:
 1. Turnips trading dashboard, where app shows a list of users' turnips price and their islands' access code so villigers can find the best island to sell their turnips.
