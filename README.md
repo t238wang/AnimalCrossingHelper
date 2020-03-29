@@ -15,9 +15,11 @@ Having the exact ordering of the fishing index in app so it's super easy to cros
 3. add other index, such as bugs, villagers, npcs, ... etc
 
 ## Where can I download this app?
-For android, you can download the helper.apk. It is a working version of the app, feel free to download and try it. I will consider publishing to play store if I have the bandwith to get more meaningful features out.
+### Android
+https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40t238wang/acnh-helper-854de302af2c4a0794269f00ff19a5a9-signed.apk
 
-For iOS, please clone this repo, register expo, run expo yourself. 
+### iOS
+please clone this repo, register expo, run expo yourself. 
 
 ## Supported/Tested devices
 This app works on OnePlus7Pro and iPads. I know this won't work on some smaller devices because they nasty way I organize UI. I will fix when I got a chance, or, please contribute.
